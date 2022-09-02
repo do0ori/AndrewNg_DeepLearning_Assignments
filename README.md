@@ -7,6 +7,7 @@
   - [W4A2 - Deep Neural Network for Image Classification: Application](Course1/C1W4A2/Deep_Neural_Network_Application.ipynb)
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [W1A1 - Initialization](Course2/C2W1A1/Initialization.ipynb)
+  - [W1A2 - Regularization](Course2/C2W1A2/Regularization.ipynb)
 ### Course 3: Structuring Machine Learning Projects
 ### Course 4: Convolutional Neural Networks
 ### Course 5: Sequence Models
