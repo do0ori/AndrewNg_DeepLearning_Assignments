@@ -6,6 +6,7 @@
   - [W4A1 - Building your Deep Neural Network: Step by Step](Course1/C1W4A1/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
   - [W4A2 - Deep Neural Network for Image Classification: Application](Course1/C1W4A2/Deep_Neural_Network_Application.ipynb)
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - [W1A1 - Initialization](Course2/C2W1A1/Initialization.ipynb)
 ### Course 3: Structuring Machine Learning Projects
 ### Course 4: Convolutional Neural Networks
 ### Course 5: Sequence Models
