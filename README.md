@@ -9,6 +9,7 @@
   - [W1A1 - Initialization](Course2/C2W1A1/Initialization.ipynb)
   - [W1A2 - Regularization](Course2/C2W1A2/Regularization.ipynb)
   - [W1A3 - Gradient Checking](Course2/C2W1A3/Gradient_Checking.ipynb)
+  - [W2A1 - Optimization Methods](Course2/C2W2A1/Optimization_methods.ipynb)
 ### Course 3: Structuring Machine Learning Projects
 ### Course 4: Convolutional Neural Networks
 ### Course 5: Sequence Models
