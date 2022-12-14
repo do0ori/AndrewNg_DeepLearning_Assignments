@@ -11,6 +11,7 @@
   - [W1A3 - Gradient Checking](Course2/C2W1A3/Gradient_Checking.ipynb)
   - [W2A1 - Optimization Methods](Course2/C2W2A1/Optimization_methods.ipynb)
   - [W3A1 - Tensorflow Introduction](Course2/C2W3A1/Tensorflow_introduction.ipynb)
-### Course 3: Structuring Machine Learning Projects
 ### Course 4: Convolutional Neural Networks
+  - [W1A1 - Convolutional Neural Networks: Step by Step]()
+  - [W1A2 - Convolutional Neural Networks: Application]()
 ### Course 5: Sequence Models
