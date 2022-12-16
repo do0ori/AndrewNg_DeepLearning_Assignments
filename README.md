@@ -14,4 +14,5 @@
 ### Course 4: Convolutional Neural Networks
   - [W1A1 - Convolutional Neural Networks: Step by Step](Course4/C4W1A1/Convolution_model_Step_by_Step_v1.ipynb)
   - [W1A2 - Convolutional Neural Networks: Application](Course4/C4W1A2/Convolution_model_Application.ipynb)
+  - [W2A1 - Residual Networks](Course4/C4W2A1/Residual_Networks.ipynb)
 ### Course 5: Sequence Models
