@@ -16,4 +16,6 @@
   - [W1A2 - Convolutional Neural Networks: Application](Course4/C4W1A2/Convolution_model_Application.ipynb)
   - [W2A1 - Residual Networks](Course4/C4W2A1/Residual_Networks.ipynb)
   - [W2A2 - Transfer Learning with MobileNetV2](Course4/C4W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
+  - [W3A1 - Autonomous Driving - Car Detection]()
+  - [W3A2 - Image Segmentation with U-Net]()
 ### Course 5: Sequence Models
