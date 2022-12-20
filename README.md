@@ -18,4 +18,6 @@
   - [W2A2 - Transfer Learning with MobileNetV2](Course4/C4W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
   - [W3A1 - Autonomous Driving - Car Detection](Course4/C4W3A1/Autonomous_driving_application_Car_detection.ipynb)
   - [W3A2 - Image Segmentation with U-Net](Course4/C4W3A2/Image_segmentation_Unet_v2.ipynb)
+  - [W4A1 - Face Recognition](Course4/C4W4A1/Face_Recognition.ipynb)
+  - [W4A2 - Deep Learning & Art: Neural Style Transfer]()
 ### Course 5: Sequence Models
