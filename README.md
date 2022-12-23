@@ -24,3 +24,5 @@
   - [W1A1 - Building your Recurrent Neural Network - Step by Step](Course5/C5W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   - [W1A2 - Character level language model - Dinosaurus Island](Course5/C5W1A2/Dinosaurus_Island_Character_level_language_model.ipynb)
   - [W1A3 - Improvise a Jazz Solo with an LSTM Network](Course5/C5W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+  - [W2A1 - Operations on Word Vectors](Course5/C5W2A1/Operations_on_word_vectors_v2a.ipynb)
+  - [W2A2 - Emojify!](Course5/C5W2A2/Emoji_v3a.ipynb)
