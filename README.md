@@ -26,3 +26,5 @@
   - [W1A3 - Improvise a Jazz Solo with an LSTM Network](Course5/C5W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
   - [W2A1 - Operations on Word Vectors](Course5/C5W2A1/Operations_on_word_vectors_v2a.ipynb)
   - [W2A2 - Emojify!](Course5/C5W2A2/Emoji_v3a.ipynb)
+  - [W3A1 - Neural Machine Translation](Course5/C5W3A1/Neural_machine_translation_with_attention_v4a.ipynb)
+  - [W3A2 - Trigger Word Detection](Course5/C5W3A2/Trigger_word_detection_v2a.ipynb)
