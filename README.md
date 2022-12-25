@@ -28,3 +28,4 @@
   - [W2A2 - Emojify!](Course5/C5W2A2/Emoji_v3a.ipynb)
   - [W3A1 - Neural Machine Translation](Course5/C5W3A1/Neural_machine_translation_with_attention_v4a.ipynb)
   - [W3A2 - Trigger Word Detection](Course5/C5W3A2/Trigger_word_detection_v2a.ipynb)
+  - [W4A1 - Transformer Network](Course5/C5W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
